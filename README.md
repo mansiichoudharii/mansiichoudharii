@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mansi Choudhari
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Java Microservices
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Full stack web app using Javascript
 
 <!---
